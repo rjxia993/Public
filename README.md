@@ -20,5 +20,5 @@ The goal was to explore what factors influence whether a booking gets cancelled 
 ## Files
 - `hotel_booking.ipynb` — main notebook with full analysis and visualizations
 
-## Team Project
+## Course Project
 This was part of a university data science machine learning course.
